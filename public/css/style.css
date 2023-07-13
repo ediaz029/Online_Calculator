@@ -1,12 +1,12 @@
 body {
-    background-color: skyblue;
+    background-color:deepskyblue
 }
 
 .btn {
     width: 100px;
     height: 100px;
     font-size: xx-large;
-    background-color: red;
+    background-color:orange;
 }
 
 .btntake2 {
