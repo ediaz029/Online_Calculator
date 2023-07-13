@@ -1,0 +1,20 @@
+body {
+    background-color: skyblue;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    font-size: xx-large;
+    background-color: red;
+}
+
+.btntake2 {
+    width: 200px;
+}
+
+input[type="text"]{
+    width: 400px;
+    height: 100px;
+    font-size: xx-large;
+}
